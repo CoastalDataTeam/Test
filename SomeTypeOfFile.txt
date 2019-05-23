@@ -1,5 +1,8 @@
 Test file
 Adding some text. Woohoo!
 Well, that was fun; let's do it again.
+<<<<<<< HEAD
 Here's another addition.
 Why?
+=======
+>>>>>>> parent of d5200d6... Update SomeTypeOfFile.txt
