@@ -1,4 +1,3 @@
 Test file
 Adding some text. Woohoo!
 Well, that was fun; let's do it again.
-Here's another addition.
